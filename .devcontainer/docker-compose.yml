@@ -1,4 +1,4 @@
-name: "rails_app_compose_stack"
+name: "rails_app2_compose_stack"
 
 services:
 
