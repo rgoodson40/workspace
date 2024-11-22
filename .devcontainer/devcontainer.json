@@ -1,5 +1,5 @@
 {
-    "name": "RailsApp Container",
+    "name": "RailsApp2 Container",
     "dockerComposeFile": ["docker-compose.yml"],
     "service": "app",
     "workspaceFolder": "/workspace"
